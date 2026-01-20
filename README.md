@@ -32,3 +32,4 @@ Prepare OpenStreetMap roads and buildings data for network analysis and urban pl
 
 ## Status
 ✅ Completed – January 2026
+Clean datasets are provided in ZIP format due to GitHub binary file upload limitations.
